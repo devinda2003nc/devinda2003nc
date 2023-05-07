@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm N.Devinda Godagampala 👋, </h1>
 <h3 align="center">Working as a Manager & 2nd Year Student BSc.Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devinda2003nc&label=Profile%20views&color=0e75b6&style=flat" alt="devinda2003nc" /> </p>
+<img align="left"> alt="Coding" width="400" src="https://media.tenor.com/DxeK02KwNbEAAAAd/java-python.gif" />
 
 - 🌱 I’m currently learning **Data Science, DevOps & Spring Boot**
 
